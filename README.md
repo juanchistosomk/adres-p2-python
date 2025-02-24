@@ -4,6 +4,8 @@
 
 Este proyecto es una aplicación web desarrollada con Flask que permite capturar y listar facturas a partir de archivos PDF. Las facturas se almacenan en una base de datos SQLite, y la aplicación incluye un endpoint para capturar los datos y una vista HTML para listarlos.
 
+![Logo del proyecto](https://iili.io/3JHe8lt.md.png)
+
 ## Características
 
 - Captura de datos de facturas desde archivos PDF.
