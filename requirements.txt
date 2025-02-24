@@ -1,0 +1,24 @@
+# Python v 3.10.6
+# .\venv\Scripts\activate
+# pip install -r requirements.txt
+Flask
+Flask-WTF
+
+# pandas para manejo de datos 
+pandas
+openpyxl
+
+# htros paquetes útiles
+lxml
+
+# herramientas de desarrollo
+pytest
+pytest-flask
+pylint
+flask_restx
+dotenv
+
+# PDFs
+PyMuPDF
+pypdf
+PyPDF2

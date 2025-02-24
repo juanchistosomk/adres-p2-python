@@ -1,0 +1,27 @@
+body {
+  background-color: #ccc;
+}
+
+h1 {
+  color: #32b1a5;
+}
+
+.table th {
+  font-weight: bold;
+}
+
+.table td {
+  vertical-align: middle;
+}
+
+.btn-custom {
+  background-color: #0056b3;
+  border-color: #004085;
+  color: #fff;
+}
+
+.btn-custom:hover {
+  background-color: #004085;
+  border-color: #0056b3;
+  color: #fff;
+}
